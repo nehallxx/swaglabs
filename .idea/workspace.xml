@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c2f11883-28f3-4568-9840-f3b1e799b3df" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/swaglabs/drivers/AbstractDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/swaglabs/drivers/BrowserFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/swaglabs/drivers/ChromeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/swaglabs/drivers/DriverManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/swaglabs/drivers/EdgeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/swaglabs/drivers/FirefoxFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/swaglabs/drivers/GUIDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/swaglabs/drivers/WebDriverOptionsAbstract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/swaglabs/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/swaglabs/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/swaglabs/utils/AllureUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/swaglabs/utils/CustomSoftAssertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/swaglabs/utils/ElementActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/swaglabs/utils/FilesUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/swaglabs/utils/JsonUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/swaglabs/utils/PropertiesUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/swaglabs/utils/ScreenshotsUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/swaglabs/utils/TerminalUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/swaglabs/utils/Validations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/swaglabs/utils/Waits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/allure.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/environment.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/waits.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/web.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2vY5hlamix8jAeBlc8cyY7dA1VD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "TestNG.SwagTest.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/USER/Downloads/DemoTestAutomationProject-master"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="SwagTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="swaglabs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.swaglabs.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.swaglabs.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.swaglabs.tests.SwagTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.SwagTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2f11883-28f3-4568-9840-f3b1e799b3df" name="Changes" comment="" />
+      <created>1744309289878</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744309289878</updated>
+    </task>
+    <servers />
+  </component>
+</project>
